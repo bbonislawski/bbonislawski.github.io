@@ -5,9 +5,9 @@ I have been interested in web development since childhood–I built my first pro
 ## Work
 
 ### Freelance Ruby Developer, Toptal
-##### 2019-01-01 
+##### 2019-01-01  - present
 
-
+- Working on various startups with teams located in USA
 
 
 ### Senior Software Engineer (Golang), [SMACC GmbH](http://smacc.io)
